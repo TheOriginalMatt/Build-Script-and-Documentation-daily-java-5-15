@@ -45,4 +45,4 @@ public class Parent {
 
 No more handwritten documentation for me!
 
-[SimpleString](./docs/SimpleString.html)
+[SimpleString](/docs/SimpleString.html)
