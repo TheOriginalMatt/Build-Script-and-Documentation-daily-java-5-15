@@ -1,0 +1,3 @@
+*.class
+./src/Parent.java
+./build
