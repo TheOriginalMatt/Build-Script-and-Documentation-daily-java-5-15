@@ -45,4 +45,4 @@ public class Parent {
 
 No more handwritten documentation for me!
 
-[SimpleString](/docs/SimpleString.html)
+[SimpleString](https://theoriginalmatt.github.io/Build-Script-and-Documentation-daily-java-5-15/)
